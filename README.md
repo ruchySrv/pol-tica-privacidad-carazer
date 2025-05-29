@@ -1,2 +1,2 @@
-# pol-tica-privacidad-carazer
+# politica-privacidad-carazer
 Política  privacidad Carazer
